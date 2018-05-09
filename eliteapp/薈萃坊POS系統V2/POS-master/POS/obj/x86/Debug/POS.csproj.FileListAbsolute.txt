@@ -1,0 +1,196 @@
+D:\Code\程式\POS\POS\bin\Debug\POS.exe
+D:\Code\程式\POS\POS\bin\Debug\POS.pdb
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.Properties.Resources.resources
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.exe
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.pdb
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.Order_Form.resources
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.BMS_Form.resources
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.KeyInForm.resources
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.text_Form.resources
+D:\Code\程式\POS\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.exe
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.pdb
+E:\薈萃方POS\POS-master\POS\bin\Debug\POS.exe
+E:\薈萃方POS\POS-master\POS\bin\Debug\POS.pdb
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+E:\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\bin\Debug\POS.exe
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\CILS\Desktop\薈萃方POS\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\bin\Debug\POS.exe
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\CILS\Desktop\elite_pos\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\bin\Debug\POS.exe
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\bin\Debug\POS.pdb
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.test.resources
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.exe
+D:\整理(非課業)\薈萃方POS\elite_pos\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\bin\Debug\POS.exe
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\bin\Debug\POS.exe
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\user\Desktop\POS-master-20180427T015006Z-001 - 複製\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\bin\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\obj\x86\Debug\POS.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統複製\POS-master\POS\bin\Debug\POS.exe.config
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\bin\Debug\POS.exe.config
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\bin\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\bin\Debug\POS.exe.config
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\bin\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\bin\Debug\POS.exe.config
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\bin\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製\POS-master\POS\obj\x86\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\bin\Debug\POS.exe.config
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\bin\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\bin\Debug\POS.pdb
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.test.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.exe
+C:\Users\user\Desktop\薈萃坊POS系統 - 複製 - 複製 - 複製 (2)\POS-master\POS\obj\x86\Debug\POS.pdb
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\bin\Debug\POS.exe.config
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.csproj.ResolveComReference.cache
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.exe
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.pdb
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\bin\Debug\POS.exe
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\bin\Debug\POS.pdb
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.test.resources
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+D:\POS重啟\薈萃坊POS系統\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\bin\Debug\POS.exe.config
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.csproj.ResolveComReference.cache
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.exe
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.pdb
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\bin\Debug\POS.exe
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\bin\Debug\POS.pdb
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.csprojResolveAssemblyReference.cache
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.BMS_Form.resources
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.Form1.resources
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.KeyInForm.resources
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.Order_Form.resources
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.Properties.Resources.resources
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.test.resources
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.text_Form.resources
+D:\POS重啟\薈萃坊POS系統V2\POS-master\POS\obj\x86\Debug\POS.csproj.GenerateResource.Cache
